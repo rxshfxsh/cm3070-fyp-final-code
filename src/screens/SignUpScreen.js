@@ -93,7 +93,7 @@ export default function SignUpScreen({ navigation }) {
       // the authenticated account will be moved into the main nav 
       // by App.js and the msg here will confirm that the Auth and 
       // the profile have been created
-      Alert.alert("Account created", "Welcome to SG Flood Sense!");
+      Alert.alert("Account created", "Welcome to SGFloodSense!");
     } catch (error) {
       // here, if there is a failed Auth req or 
       // firestore profile write, then this will 
