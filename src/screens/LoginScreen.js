@@ -72,7 +72,7 @@ export default function LoginScreen({ navigation }) {
           showsVerticalScrollIndicator={false}
         >
           <View style={styles.formatForForm}>
-            <Text style={styles.styForTitle}>SG Flood Sense</Text>
+            <Text style={styles.styForTitle}>SGFloodSense</Text>
 
             <Text style={styles.styForSubTitle}>
               Login to continue your preparedness journey.
